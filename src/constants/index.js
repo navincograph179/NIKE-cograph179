@@ -138,7 +138,7 @@ export const footerLinks = [
     title: "Get in touch",
     links: [
       { name: "navin_gurung@co-graph.com", link: "mailto:navin_gurung@co-graph.com" },
-      { name: "+81123456789", link: "tel:+810704377156" },
+      { name: "+81123454489", link: "tel:+810704377156" },
     ],
   },
 ];
