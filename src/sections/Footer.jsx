@@ -61,9 +61,9 @@ const Footer = () => {
             height={20}
             className='rounded-full m-0'
           />
-          <p>Copyright. All rights reserved.</p>
+          <p>CO-GRAPH㈱@Copyright. All rights reserved.</p>
         </div>
-        <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
+        <p className='font-montserrat cursor-pointer mt-3'>Terms & Conditions</p>
       </div>
     </footer>
   );
