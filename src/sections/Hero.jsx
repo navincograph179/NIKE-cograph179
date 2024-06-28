@@ -23,14 +23,14 @@ const Hero = () => {
         <h1 className='mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold'>
           <span
             className='xl:bg-white xl:whitespace-nowrap relative z-10 pr-10'
-          >The New Arrival</span>
+          >新着</span>
           <br />
           <span className='text-coral-red inline-block mt-3'>Nike</span> Shoes
         </h1>
         <p
           className='font-montserrat text-lg text-slate-gray mt-6 mb-14 sm:max-w-sm'
-        >Discover stylish Nike arrivals, quality comfort, and innovation for your active life.</p>
-        <Button label="Show now" iconURL={arrowRight} />
+        >アクティブな生活にぴったりのスタイリッシュな Nike の新商品、上質な快適さ、革新的な製品をご紹介します。</p>
+        <Button label="今すぐ表示" iconURL={arrowRight} />
         <div className='flex justify-start items-start flex-wrap w-full mt-20 gap-16'>
           {/* in this code below, statistic`s data import form constants and using map() func */}
           {statistics.map((stat) => (

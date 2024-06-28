@@ -9,10 +9,9 @@ const PopularProducts = () => {
     >
       <div className="flex flex-col justify-start gap-5">
         <h2 className="text-4xl font-palanquin font-bold">
-          <span className="text-coral-red">Popular </span>
-           Products</h2>
-        <p className="font-montserrat text-slate-gray lg:max-w-lg mt-2">Experience top-notch quality and stylle with our sought-after selections. Discover
-          a world of comfort, design, and value.
+          <span className="text-coral-red">人気 </span>
+          商品</h2>
+        <p className="font-montserrat text-slate-gray lg:max-w-lg mt-2">弊社の人気セレクションで、一流の品質とスタイルを体験してください。快適さ、デザイン、価値の世界を発見してください。
         </p>
       </div>
       

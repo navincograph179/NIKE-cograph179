@@ -10,8 +10,8 @@ import {
   bigShoe1,
   bigShoe2,
   bigShoe3,
-  customer1,
-  customer2,
+  shibuya,
+  yoshida,
   shoe4,
   shoe5,
   shoe6,
@@ -79,36 +79,36 @@ export const products = [
 export const services = [
   {
     imgURL: truckFast,
-    label: "Free shipping",
-    subtext: "Enjoy seamless shopping with our complimentary shipping service.",
+    label: "配達無料",
+    subtext: "弊社の無料配送サービスでスムーズなショッピングをお楽しみください。",
   },
   {
     imgURL: shieldTick,
-    label: "Secure Payment",
+    label: "安全なお支払い",
     subtext:
-      "Experience worry-free transactions with our secure payment options.",
+      "弊社の安全な支払いオプションで、安心して取引をお楽しみください。",
   },
   {
     imgURL: support,
-    label: "Love to help you",
-    subtext: "Our dedicated team is here to assist you every step of the way.",
+    label: "お手伝いさせていただきます",
+    subtext: "当社の専任チームがあらゆる段階でお客様をサポ​​ートします。",
   },
 ];
 
 export const reviews = [
   {
-    imgURL: customer1,
-    customerName: "Morich Brown",
+    imgURL: shibuya,
+    customerName: "Shibuya",
     rating: 4.5,
     feedback:
-      "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+      "細部へのこだわりと製品の品質は私の期待を超えていました。強くお勧めします!",
   },
   {
-    imgURL: customer2,
-    customerName: "Lota Mongeskar",
+    imgURL: yoshida,
+    customerName: "Yoshida",
     rating: 4.5,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      "製品は期待を満たすだけでなく、期待を上回るものでした。私は間違いなくリピーターになるでしょう!",
   },
 ];
 
@@ -137,8 +137,8 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "navin_gurung@co-graph.com", link: "mailto:navin_gurung@co-graph.com" },
+      { name: "+81123456789", link: "tel:+810704377156" },
     ],
   },
 ];
